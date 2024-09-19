@@ -1,9 +1,23 @@
 [
     {
         "id":1,
-        "first_name":"Abacab",
-        "last_name":"Genesis",
-        "email":"kl@gmail.com",
+        "first_name":"Bob",
+        "last_name":"Temblay",
+        "email":"bob@gmail.com",
         "password":"123"
+    },
+     {
+        "id":2,
+        "first_name":"Alice",
+        "last_name":"Gagnon",
+        "email":"alice@gmail.com",
+        "password":"1234"
+    },
+     {
+        "id":3,
+        "first_name":"Steve",
+        "last_name":"Roy",
+        "email":"steve@gmail.com",
+        "password":"12345"
     }
 ]
