@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "ownerId": 1,
+        "description": "Task 1 of user 1",
+        "isDone": false
+    },
+     {
+        "id": 2,
+        "ownerId: 1,
+        "description": "Task 2 of user 1",
+        "isDone": true
+    },
+     {
+        "id": 3,
+        "ownerId": 2,
+        "description": "Task 3 of user 2",
+        "isDone": false
+    }
+]
